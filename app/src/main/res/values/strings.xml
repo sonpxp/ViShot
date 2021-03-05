@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViShot</string>
+
+    <string name="text_frag11">Trải nghiệm Bot mới</string>
+    <string name="text_frag22">AI thông minh</string>
+    <string name="text_frag33">Cùng bắt đầu</string>
+    <string name="Copyright">Copyright © 2020 Xuan son</string>
+
+    <string name="text_frag1">Với SimSimi, bạn sẽ có những phút giây
+        thư giãn sau những giờ học tập và làm việc căng thẳng</string>
+
+    <string name="text_frag2">Bạn sẽ có những phút giây
+        thư giãn sau những giờ học tập và làm việc căng thẳng</string>
+    <string name="text_frag3">Bạn sẽ có những phút giây
+        thư giãn sau những giờ học tập và làm việc căng thẳng</string>
+</resources>
