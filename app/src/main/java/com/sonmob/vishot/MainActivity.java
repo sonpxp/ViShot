@@ -14,7 +14,7 @@ import com.sonmob.vishot.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     ActivityMainBinding mainBinding;
-    private int IMAGE_REQUEST_CODE = 12;
+    private final int IMAGE_REQUEST_CODE = 12;
 
 
     @Override
