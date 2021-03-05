@@ -29,7 +29,7 @@
         app:tint="@color/white" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/img_avatar"
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_marginStart="140dp"
@@ -49,7 +49,7 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView8"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
+        app:layout_constraintTop_toBottomOf="@+id/img_avatar"
         app:srcCompat="@drawable/facebook" />
 
     <ImageView
@@ -60,7 +60,7 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView9"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageView7"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
+        app:layout_constraintTop_toBottomOf="@+id/img_avatar"
         app:srcCompat="@drawable/instagram" />
 
     <ImageView
@@ -71,7 +71,7 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView10"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageView8"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
+        app:layout_constraintTop_toBottomOf="@+id/img_avatar"
         app:srcCompat="@drawable/whatsapp" />
 
     <ImageView
@@ -82,6 +82,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageView9"
-        app:layout_constraintTop_toBottomOf="@+id/imageView6"
+        app:layout_constraintTop_toBottomOf="@+id/img_avatar"
         app:srcCompat="@drawable/share" />
 </androidx.constraintlayout.widget.ConstraintLayout>
